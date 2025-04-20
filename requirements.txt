@@ -1,0 +1,2 @@
+streamlit>=1.22.0
+pandas  # 按需添加其他依赖
